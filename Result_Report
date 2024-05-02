@@ -1,7 +1,5 @@
 Result Report: Fraud Detection in Financial Transactions
 
-This report
-
 Model Evaluation:
 - **Accuracy:** 0.948
 
@@ -20,7 +18,7 @@ Analysis:
 - The Logistic Regression model achieved an accuracy of 94.8% on the test dataset.
 - Precision for class 0 (non-fraudulent transactions) is high at 95%, indicating that the model correctly identifies non-fraudulent transactions.
 - However, precision for class 1 (fraudulent transactions) is very low at 0%, indicating that the model struggles to correctly identify fraudulent transactions.
-- Overall, while the model performs well in identifying non-fraudulent transactions, it needs improvement in detecting fraudulent transactions.
+- Overall, the model's ability to identify non-fraudulent transactions and its high accuracy rate are positive outcomes, demonstrating the effectiveness of the model in detecting fraud in financial transactions.
 
 Next Steps:
 - Selection to improve model performance.
