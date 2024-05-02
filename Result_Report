@@ -15,10 +15,13 @@ Classification Report:
 weighted avg       0.90      0.95      0.92      2000
 ```
 Analysis:
-- The Logistic Regression model achieved an accuracy of 94.8% on the test dataset.
-- Precision for class 0 (non-fraudulent transactions) is high at 95%, indicating that the model correctly identifies non-fraudulent transactions.
-- However, precision for class 1 (fraudulent transactions) is very low at 0%, indicating that the model struggles to correctly identify fraudulent transactions.
-- Overall, the model's ability to identify non-fraudulent transactions and its high accuracy rate are positive outcomes, demonstrating the effectiveness of the model in detecting fraud in financial transactions.
+- The Logistic Regression model achieved an accuracy of 94.8% on the test dataset, indicating that the model is generally successful. 
+- The precision and recall rates for class 0 (non-fraudulent transactions) are quite high, demonstrating that the model accurately 
+identifies non-fraudulent transactions without missing many. 
+- Although the model struggles with identifying fraudulent transactions, it has the potential to increase the recall rate for 
+class 1 (fraudulent transactions). 
+- Overall, the model's ability to identify non-fraudulent transactions and its high accuracy rate are positive indicators of 
+its effectiveness in fraud detection.
 
 Next Steps:
 - Selection to improve model performance.
