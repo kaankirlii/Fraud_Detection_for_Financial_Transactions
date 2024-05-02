@@ -26,6 +26,8 @@ class 1 (fraudulent transactions).
 its effectiveness in fraud detection.
 
 Next Steps:
-- Selection to improve model performance.
-- Experimentation with different machine learning algorithms and parameter tuning.
-- Exploration of ensemble methods or advanced techniques for better fraud detection.
+- Improvements can be made to increase the recall rate for class 1 (fraudulent transactions) to enhance the model's ability 
+to identify fraudulent transactions.
+- Model tuning can be conducted to refine the model.
+- Exploring and implementing different machine learning algorithms and techniques can be planned to further enhance 
+the model's performance.
