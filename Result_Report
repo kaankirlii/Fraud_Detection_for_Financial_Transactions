@@ -1,5 +1,7 @@
 Result Report: Fraud Detection in Financial Transactions
 
+Dataset: financial_transactions.csv on Github. This file has 10000 rows. 
+
 Model Evaluation:
 - **Accuracy:** 0.948
 
